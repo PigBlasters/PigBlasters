@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @PigBlasters
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm SMASH – leader of Pig Blasters, a winning Angry Birds 2 team. I'm also a techno geek.
 
-<!---
-PigBlasters/PigBlasters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Creating software to help manage the team just made sense.
+
