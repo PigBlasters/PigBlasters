@@ -1,4 +1,7 @@
-Hi, I'm SMASH – leader of Pig Blasters, a winning Angry Birds 2 team. I'm also a techno geek.
+**Hi, I'm SMASH!**
 
-Creating software to help manage the team just made sense.
+As a tech geek with ~20 years experience developing code for use with the WordPress platform – and as the leader of an Angry Birds 2 team – creating a plugin to help manage the effort just made sense. The software has allowed our team to make intelligent decisions based on data and numbers, rather than biases and emotions. It allows us to keep the right players and send the wrong players on their way. The result has been that we have crafted a dedicated team of players with an exceptionally high win-rate. We call it AB2 Clan Manager – or just AB2CM, for short.
 
+We have had multiple requests for a copy of the plugin since it is licensed under GPL simply by virtue of it being a WordPress plugin. However, at this time, we have no plans to release the code publicly. Using it exclusively with our team means that we can offer our members perks that no other AB2 team can offer. Things like detailed member history profiles. Things like public battle performance stats with a sortable online leaderboard. Things like a public team battle history and stats. Pig Blasters has the best perks for members who love to see their progress with the team in visual form.
+
+Note: AB2CM does not interface with the game in any way. Sadly, Rovio does not provide any means to do so. If they did, this could open some cool possibilities and it would then make more sense to release the plugin publicly to get others also working on the codebase and adding features based on member requests and team needs. We're open to it! Maybe in the future!
